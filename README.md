@@ -24,12 +24,5 @@ I also integrated a Raspberry Pi Pico with I2C to collect sensor and temperature
 
 Feel free to explore, give feedback, or collaborate!
 
----
-
-## License
-
-*(Add your preferred license here, e.g. MIT License)*
-
----
 
 #PCBDesign #4GModem #Quectel #IoT #HardwareEngineering #EasyEDA #SignalIntegrity #EMCDesign #ElectronicsDesign
